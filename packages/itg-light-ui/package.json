@@ -1,0 +1,26 @@
+{
+  "name": "itg-light-ui",
+  "theme": "ui",
+  "version": "0.1.0",
+  "description": "Port of the theme-itg-flat for ST https://github.com/itsthatguy/theme-itg-flat to Atom",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aesarius/itg-light-ui"
+  },
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "readme": "# ITG Light UI Theme\n\nPort of the [theme-itg-flat](https://github.com/itsthatguy/theme-itg-flat) Sublime Text theme to Atom.\nAll credit goes to [@itsthatguy](https://github.com/itsthatguy)\n\n![screenshot](http://i.imgur.com/VaNk8GP.png)\n\nBest used with the [itg-light-syntax-theme](https://atom.io/packages/itg-light-syntax).\nThanks for the port [@paradox41](https://github.com/paradox41)!\n\nFont used is [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro).\nThis is my all time fav coding font at the moment :D\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/aesarius/itg-light-ui/issues"
+  },
+  "homepage": "https://github.com/aesarius/itg-light-ui",
+  "_id": "itg-light-ui@0.1.0",
+  "dist": {
+    "shasum": "f4ce8cfd8c56db84dc374892980989f9809d8d2f"
+  },
+  "_resolved": "/var/folders/52/ghj0mjs51813m4dz7v6_59300000gn/T/d-114217-40181-14k6gwp/package.tgz",
+  "_from": "/var/folders/52/ghj0mjs51813m4dz7v6_59300000gn/T/d-114217-40181-14k6gwp/package.tgz"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "capybara-snippets",
+  "main": "./lib/capybara-snippets",
+  "version": "0.2.0",
+  "description": "Package for providing the AtomEditor with Capybara specific snippets",
+  "activationEvents": [
+    "capybara-snippets:toggle"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrecedik/capybara-snippets"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {},
+  "readme": "# capybara-snippets package\n\nPackage for providing the AtomEditor with Capybara specific snippets\n\nFor more info about Capybara visit: https://github.com/jnicklas/capybara\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/andrecedik/capybara-snippets/issues"
+  },
+  "homepage": "https://github.com/andrecedik/capybara-snippets",
+  "_id": "capybara-snippets@0.2.0",
+  "dist": {
+    "shasum": "df3aada8e212cfad0774db03d23347e968825110"
+  },
+  "_resolved": "/var/folders/52/ghj0mjs51813m4dz7v6_59300000gn/T/d-114231-3914-cv46q8/package.tgz",
+  "_from": "/var/folders/52/ghj0mjs51813m4dz7v6_59300000gn/T/d-114231-3914-cv46q8/package.tgz"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "markdown-preview-ghcjs",
+  "version": "1.0.1",
+  "main": "./lib/markdown-preview",
+  "description": "Open a GHCJS-rendered version of the Markdown in the current editor with `ctrl-alt-m`.",
+  "repository": "https://github.com/audreyt/markdown-preview-ghcjs",
+  "license": "MIT",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {
+    "fs-plus": "2.x",
+    "pathwatcher": "0.16.0",
+    "temp": "0.6.x",
+    "underscore-plus": "1.x",
+    "wrench": "1.5.x"
+  }
+}

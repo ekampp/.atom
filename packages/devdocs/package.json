@@ -1,0 +1,34 @@
+{
+  "name": "devdocs",
+  "main": "./lib/devdocs",
+  "version": "0.2.0",
+  "private": true,
+  "author": {
+    "name": "Abu Ashraf Masnun"
+  },
+  "description": "Put your cursor on a keyword and search for it using the 'doc' command",
+  "activationEvents": [
+    "doc"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/masnun/atom-devdocs"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {},
+  "readme": "# devdocs\n\nPut your cursor on a word. Press Cmd + Shift + P to bring up the command palette. Choose \"Doc\" to\nsearch on devdocs.io\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/masnun/atom-devdocs/issues"
+  },
+  "homepage": "https://github.com/masnun/atom-devdocs",
+  "_id": "devdocs@0.2.0",
+  "dist": {
+    "shasum": "eede4e65ba89cfa26eeac529e61ecc963f458827"
+  },
+  "_resolved": "/var/folders/52/ghj0mjs51813m4dz7v6_59300000gn/T/d-11429-6939-1n465gw/package.tgz",
+  "_from": "/var/folders/52/ghj0mjs51813m4dz7v6_59300000gn/T/d-11429-6939-1n465gw/package.tgz"
+}

@@ -1,0 +1,30 @@
+'exception-reporting':
+  'userId': '3aad193e-206a-02c2-777c-b850f530c29a'
+'release-notes':
+  'viewedVersion': '0.80.0'
+'welcome':
+  'showOnStartup': false
+'metrics':
+  'userId': '7d70dd456dd5068d06ffec7647b15c1b84cf48bb'
+'editor':
+  'fontFamily': 'Menlo'
+  'showIndentGuide': true
+  'fontSize': 12
+  'normalizeIndentOnPaste': false
+'core':
+  'themes': [
+    'atom-dark-ui-slim'
+    'monokai'
+  ]
+  'ignoredNames': [
+    '.git'
+    '.svn'
+    '.DS_Store'
+  ]
+  'audioBeep': false
+'autocomplete': {}
+'autoclose-html':
+  'closeOnEndOfOpeningTag': true
+'autosave': {}
+'circle-ci':
+  'apiToken': '3984c329128a7d6d89a792427afaa21b654446bc'

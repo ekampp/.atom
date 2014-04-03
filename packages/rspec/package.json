@@ -1,0 +1,32 @@
+{
+  "name": "rspec",
+  "main": "./lib/rspec",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Atom RSpec runner package",
+  "activationEvents": [
+    "rspec:run",
+    "rspec:runForFile"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fcoury/atom-rspec"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {},
+  "readme": "# Atom RSpec Package\n\n----\n\n**Warning: This package is alpha and probably buggy,** but we decided to share\nour progress for those who are interested. Proceed at your own risk!\n\n-----\n\nAdd ability to run RSpec and see the output without leaving Atom.\n\nYou can open a new terminal with **ctrl-`** or from the command palette\nvia **cmd-p**, typing 'terminal', and selecting the 'Terminal: Open' command.\n\n![Screenshot](http://cl.ly/image/2J2X403a253g/stats_collector_spec.rb%20-%20-Users-fcoury-Projects-crm_bliss.png)\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/fcoury/atom-rspec/issues"
+  },
+  "homepage": "https://github.com/fcoury/atom-rspec",
+  "_id": "rspec@1.0.0",
+  "dist": {
+    "shasum": "cc9b15ea0c215a4b3a769cb4a6ad422a75ca3de5"
+  },
+  "_resolved": "/var/folders/52/ghj0mjs51813m4dz7v6_59300000gn/T/d-11421-67306-1nc3fja/package.tgz",
+  "_from": "/var/folders/52/ghj0mjs51813m4dz7v6_59300000gn/T/d-11421-67306-1nc3fja/package.tgz"
+}
